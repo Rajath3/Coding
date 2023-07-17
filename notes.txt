@@ -1,0 +1,6 @@
+Amortized means taking into consideration the edge cases.
+For example pop(0) on array, we assume it's O(1), but it's actually O(N)
+complexity.
+
+Todo:
+Search for some hashing algos
